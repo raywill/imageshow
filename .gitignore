@@ -1,0 +1,4 @@
+main.o
+enc
+input/*.jpg
+.DS_Store
